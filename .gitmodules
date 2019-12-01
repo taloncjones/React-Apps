@@ -3,4 +3,4 @@
 	url = https://github.com/taloncjones/todo_list.git
 [submodule "tic_tac_toe"]
 	path = tic_tac_toe
-	url = ./tic_tac_toe/
+	url = https://github.com/taloncjones/tic_tac_toe.git
